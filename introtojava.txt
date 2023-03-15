@@ -1,0 +1,64 @@
+
+
+	Java :
+
+	3 parts
+
+	1) JSE (Java Standard Edition) Core Java
+	
+	-Introduction to Java 
+	-OOP Concepts
+	-File Handling
+	-Exception Handling
+	-Multi-threading
+	-Collections and Generics
+	-Swings (GUI Application) Desktop Applications.CRUD Application
+	-RDBMS (Database)
+			
+	2) JEE (Java Enterprise Edition) Advance Java
+	- Web Page
+	-Servlet
+	-Web CRUD Application
+	- Project 
+	  -Template Integration
+	  -Session Tracking Technique
+
+
+
+	3) JME (Java Microservices Edition) Web Services/API
+
+
+
+	IDE (Integrated Development Environment)
+
+	1) Visual Studio Code (.Net )
+	2) IntelliJ Idea (Community Version) (Java)
+	3) Eclipse (developed in Java) (80 to 90% Java Developers use Eclipse as an IDE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1) Chirag Jasani
+2) Parth Purohit
+3) Jay Gajera
+
+
+
+
+
+
